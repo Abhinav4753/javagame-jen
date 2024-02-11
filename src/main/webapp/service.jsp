@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>game page</title>
+<title>Insert title here</title>
 </head>
 <body>
-<h1>huvsvsnvjosvnsjrfnbsrhkv jwnfw</h1>
+<h1>this is jsp</h1>
 </body>
 </html>

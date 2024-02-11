@@ -4,4 +4,4 @@
 <p>yeh kaam krega</p>
 <a href="game.jsp">game page</a>
 </body>
-</html>
+</html> 
