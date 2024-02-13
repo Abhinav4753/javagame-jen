@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>game page</title>
+<title>Jenkins Page</title>
 </head>
 <body>
-<h1>huvsvsnvjosvnsjrfnbsrhkv jwnfw</h1>
+<h1>It is fun to have you here</h1>
 </body>
 </html>

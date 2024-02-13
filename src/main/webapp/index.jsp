@@ -1,8 +1,8 @@
 <html>
 <body>
-<h2>This is abhi</h2>
-<p>yeh kaam krega</p>
-<a href="game.jsp">game page</a>
-<a href="service.jsp">service page</a>
+<h2>This is Abhinav Sharma</h2>
+<p>Roll No:- 2210994753</p>
+<a href="game.jsp">My Credentials page</a>
+<a href="service.jsp">My Service page</a>
 </body>
 </html> 
