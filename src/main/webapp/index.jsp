@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html>
+
 <head>
     <title>Abhinav Sharma's Portfolio</title>
     <style>
@@ -10,6 +11,7 @@
             background-color: #f4f4f4;
             color: #333;
         }
+
         #container {
             width: 80%;
             margin: 0 auto;
@@ -19,22 +21,31 @@
             border-radius: 5px;
             margin-top: 50px;
         }
+
         h2 {
             color: #007bff;
+            text-align: center;
         }
+
         p {
             margin-bottom: 10px;
         }
+
         a {
             text-decoration: none;
             color: #007bff;
             margin-right: 20px;
+            display: block;
+            text-align: center;
+            margin-top: 10px;
         }
+
         a:hover {
             color: #0056b3;
         }
     </style>
 </head>
+
 <body>
     <div id="container">
         <h2>This is Abhinav Sharma</h2>
@@ -45,4 +56,5 @@
         <a href="service.jsp">My Service page</a>
     </div>
 </body>
+
 </html>
