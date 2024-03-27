@@ -121,6 +121,7 @@
     }
     .jobdes {
       margin-top: 20px;
+      align-text: center:
     }
     .box, .box2 {
       display: flex;
@@ -173,7 +174,6 @@
     <a href="service.jsp">My Service page</a>
   </div>
   <div class="container">
-    <img src="deakin.jpeg" alt="deakin photo">
     <div class="content">
       <h1>Hey, I am Abhinav</h1>
     </div>
@@ -228,19 +228,19 @@
   </div>
   <div class="row">
     <div class="column">
-      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 200px;">
+      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 100px;">
     </div>
     <div class="column">
-      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 200px;">
+      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 100px;">
     </div>
     <div class="column">
-      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 200px;">
+      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 100px;">
     </div>
     <div class="column">
-      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 200px;">
+      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 100px;">
     </div>
     <div class="column">
-      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 200px;">
+      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 100px;">
     </div>
   </div>
 </body>
