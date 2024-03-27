@@ -216,26 +216,26 @@
   <br>
   <div class="des">
     <br>
-    <h2>My Photos</h2>
+    <h2>University's Photos</h2>
     <br>
   </div>
   <div class="row">
     <div class="column">
-      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 50%; max-width: 200px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuTzaYD5V5FuQ49XeroGCwyfb8kqB3a-A7CFFBfMd7Kdc7ejJBE-EExej0z8Dmv5xJmV0&usqp=CAU" alt="Random Photo" style="width: 50%; max-width: 200px;">
     </div>
     <div class="column">
-      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 50%; max-width: 200px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUleUW5slnrzo74FrVX4CqIobzgYwhh-UVCaLMs9SkxidbwENWaGGXxG6gH7Lpzu13LqA&usqp=CAU" alt="Random Photo" style="width: 50%; max-width: 200px;">
     </div>
     <div class="column">
-      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 50%; max-width: 200px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnWdbLqHWe9O6fZMuTVWMPEd8zz8igchf9aoMdDuvDSqKCE-UwBOmerT6aK4aHb-HDmUo&usqp=CAU" alt="Random Photo" style="width: 50%; max-width: 200px;">
     </div>
   </div>
   <div class="row">
     <div class="column">
-      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 50%; max-width: 200px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_kFwmCA1X-Ephkyv61yvcOyPGnxQ9A87q6qptVASS3s26X8rPkWPRFf95etlwLKh8c6I&usqp=CAU" alt="Random Photo" style="width: 50%; max-width: 200px;">
     </div>
     <div class="column">
-      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 50%; max-width: 200px;">
+      <img src="hhttps://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZH7UVY4pDCSbnU6q1PN0BW4faqy1Vr2JBRg&usqp=CAU" alt="Random Photo" style="width: 50%; max-width: 200px;">
     </div>
   </div>
 </body>
