@@ -179,7 +179,7 @@
     </div>
   </div>
   <center>
-    <img src="https://source.unsplash.com/random" alt="Avatar" class="profileimg">
+    <img src="https://institute.careerguide.com/wp-content/uploads/2020/03/Chitkara-University-Patiala-2PB-Campus.png" alt="Avatar" class="profileimg">
   </center>
   <div class="jobdes">
     <br>
@@ -205,7 +205,7 @@
   <br>
   <br>
   <div class="box2">
-    <img src="https://source.unsplash.com/random">
+    <img src="https://images.unsplash.com/photo-1558317374-067fb5f30001?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dmFjY3VtJTIwY2xlYW5pbmclMjByb2JvdHxlbnwwfHwwfHx8MA%3D%3D">
         <div class="text2">
       <p>The Arduino-based vacuum cleaner is a do-it-yourself robotic cleaning device designed to autonomously clean
         surfaces. The vacuum cleaner consists of a sturdy and compact body equipped with wheels for mobility and a
