@@ -121,8 +121,7 @@
     }
     .jobdes {
       margin-top: 20px;
-      
-      align-items: center;
+      text-align: center;
     }
     .box, .box2 {
       display: flex;
@@ -142,11 +141,13 @@
       margin-top: 20px;
       display: flex;
       flex-wrap: wrap;
+      justify-content: center;
     }
     .column {
       flex: 25%;
       max-width: 25%;
       padding: 0 4px;
+      text-align: center;
     }
     .column img {
       margin-top: 8px;
@@ -197,25 +198,15 @@
     <div class="text">
       <p>This is my floor cleaning robot using Arduino Uno is an autonomous robot designed to clean floors. It is built
         on a chassis with wheels and equipped with cleaning mechanisms, such as bristle brushes or mop attachments. The
-        Arduino Uno board serves as the brain of the robot, controlling its movements and cleaning actions. The robot
-        can be optionally equipped with sensors for obstacle detection and navigation. Powered by batteries or an
-        external power supply, the robot moves across the floor, efficiently cleaning the surface as it navigates
-        through the designated area.</p>
+        Arduino Uno board serves as the brain of the robot, controlling its movements and cleaning actions. The robot can be optionally equipped with sensors for obstacle detection and navigation. Powered by batteries or an external power supply, the robot moves across the floor, efficiently cleaning the surface as it navigates through the designated area.</p>
     </div>
   </div>
   <br>
   <br>
   <div class="box2">
     <img src="https://images.unsplash.com/photo-1558317374-067fb5f30001?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8dmFjY3VtJTIwY2xlYW5pbmclMjByb2JvdHxlbnwwfHwwfHx8MA%3D%3D">
-        <div class="text2">
-      <p>The Arduino-based vacuum cleaner is a do-it-yourself robotic cleaning device designed to autonomously clean
-        surfaces. The vacuum cleaner consists of a sturdy and compact body equipped with wheels for mobility and a
-        rotating brush mechanism for effective cleaning. Inside the body, there is a suction fan to aid in the cleaning
-        process.
-        At the heart of the vacuum cleaner is an Arduino board, which acts as the brain and central control unit. The
-        Arduino is connected to a motor driver module that controls the two DC motors responsible for driving the
-        wheels. The vacuum cleaner can move forward, backward, turn left, and turn right based on the motor control
-        signals from the Arduino.</p>
+    <div class="text2">
+      <p>The Arduino-based vacuum cleaner is a do-it-yourself robotic cleaning device designed to autonomously clean surfaces. The vacuum cleaner consists of a sturdy and compact body equipped with wheels for mobility and a rotating brush mechanism for effective cleaning. Inside the body, there is a suction fan to aid in the cleaning process. At the heart of the vacuum cleaner is an Arduino board, which acts as the brain and central control unit. The Arduino is connected to a motor driver module that controls the two DC motors responsible for driving the wheels. The vacuum cleaner can move forward, backward, turn left, and turn right based on the motor control signals from the Arduino.</p>
     </div>
   </div>
 
@@ -237,6 +228,8 @@
     <div class="column">
       <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 50%; max-width: 200px;">
     </div>
+  </div>
+  <div class="row">
     <div class="column">
       <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 50%; max-width: 200px;">
     </div>
@@ -246,3 +239,4 @@
   </div>
 </body>
 </html>
+        
