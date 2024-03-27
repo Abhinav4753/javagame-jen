@@ -9,8 +9,85 @@
       font-family: Arial, sans-serif;
       margin: 0;
       padding: 0;
-      background-color: #f4f4f4;
-      color: #333;
+      background-color: #ddd;
+    }
+    .rainbow {
+      position: absolute;
+      top: 40%;
+      left: 50%;
+      transform: translate(-50%,-50%);
+    }
+    ul {
+      margin: 0;
+      padding: 0;
+      position: relative;
+      width: 400px;
+      height: 240px;
+      border-bottom: 1px solid #ddd;
+      overflow: hidden;
+    }
+    ul li {
+      list-style: none;
+      border-radius: 50%;
+      border: 15px solid black;
+      position: absolute;
+      top: 100%;
+      left: 50%;
+      border-bottom-color: transparent !important;
+      border-left-color: transparent !important;
+      box-shadow: 0 0 10px #aaa;
+      animation: animate 5s infinite alternate;
+      transform: translate(-50%,-50%);
+    }
+    ul li:nth-child(1) {
+      width: 60px;
+      height: 60px;
+      border-color: #FF0000;
+      animation-delay: .2s;
+    }
+    ul li:nth-child(2) {
+      width: 90px;
+      height: 90px;
+      border-color: #FF7F00;
+      animation-delay: .4s;
+    }
+    ul li:nth-child(3) {
+      width: 120px;
+      height: 120px;
+      border-color: #FFFF00;
+      animation-delay: .6s;
+    }
+    ul li:nth-child(4) {
+      width: 150px;
+      height: 150px;
+      border-color: #00FF00;
+      animation-delay: .8s; 
+    }
+    ul li:nth-child(5) {
+      width: 180px;
+      height: 180px;
+      border-color: #0000FF;
+      animation-delay: 1s;
+    }
+    ul li:nth-child(6) {
+      width: 210px;
+      height: 210px;
+      border-color: #4B0082;
+      animation-delay: 1.2s;
+    }
+    ul li:nth-child(7) {
+      width: 240px;
+      height: 240px;
+      border-color: #9400D3;
+      animation-delay: 1.4s;
+    }
+    @keyframes animate {
+      0% {
+        transform: translate(-50%,-50%) rotate(-45deg);
+      }
+      100% {
+        transform: translate(-50%,-50%) rotate(315deg);
+      }
     }
     #container {
       width: 80%;
@@ -96,6 +173,7 @@
     <a href="service.jsp">My Service page</a>
   </div>
   <div class="container">
+    <img src="deakin.jpeg" alt="deakin photo">
     <div class="content">
       <h1>Hey, I am Abhinav</h1>
     </div>
@@ -128,7 +206,7 @@
   <br>
   <div class="box2">
     <img src="https://source.unsplash.com/random">
-    <div class="text2">
+        <div class="text2">
       <p>The Arduino-based vacuum cleaner is a do-it-yourself robotic cleaning device designed to autonomously clean
         surfaces. The vacuum cleaner consists of a sturdy and compact body equipped with wheels for mobility and a
         rotating brush mechanism for effective cleaning. Inside the body, there is a suction fan to aid in the cleaning
