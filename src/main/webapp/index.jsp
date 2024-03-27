@@ -192,7 +192,7 @@
     <br>
   </div>
   <div class="box">
-    <img src="https://source.unsplash.com/random">
+    <img src="https://plus.unsplash.com/premium_photo-1661679071407-9eb342c3a32c?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
     <div class="text">
       <p>This is my floor cleaning robot using Arduino Uno is an autonomous robot designed to clean floors. It is built
         on a chassis with wheels and equipped with cleaning mechanisms, such as bristle brushes or mop attachments. The
