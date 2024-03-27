@@ -96,13 +96,12 @@
     <a href="service.jsp">My Service page</a>
   </div>
   <div class="container">
-    <img src="deakin.jpeg" alt="deakin photo">
     <div class="content">
       <h1>Hey, I am Abhinav</h1>
     </div>
   </div>
   <center>
-    <img src="photo_6269302876971053781_y (1).jpg" alt="Avatar" class="profileimg">
+    <img src="https://source.unsplash.com/random" alt="Avatar" class="profileimg">
   </center>
   <div class="jobdes">
     <br>
@@ -115,7 +114,7 @@
     <br>
   </div>
   <div class="box">
-    <img src="photo_6334874481981502816_y (1).jpg">
+    <img src="https://source.unsplash.com/random">
     <div class="text">
       <p>This is my floor cleaning robot using Arduino Uno is an autonomous robot designed to clean floors. It is built
         on a chassis with wheels and equipped with cleaning mechanisms, such as bristle brushes or mop attachments. The
@@ -128,7 +127,7 @@
   <br>
   <br>
   <div class="box2">
-    <img src="photo_6338850925912897026_y.jpg">
+    <img src="https://source.unsplash.com/random">
     <div class="text2">
       <p>The Arduino-based vacuum cleaner is a do-it-yourself robotic cleaning device designed to autonomously clean
         surfaces. The vacuum cleaner consists of a sturdy and compact body equipped with wheels for mobility and a
@@ -151,19 +150,19 @@
   </div>
   <div class="row">
     <div class="column">
-      <img src="photo1.jpg" alt="Snow" style="width: 100%; max-width: 200px;">
+      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 200px;">
     </div>
     <div class="column">
-      <img src="photo2.jpg" alt="Forest" style="width: 100%; max-width: 200px;">
+      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 200px;">
     </div>
     <div class="column">
-      <img src="photo3.jpg" alt="Mountains" style="width: 100%; max-width: 200px;">
+      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 200px;">
     </div>
     <div class="column">
-      <img src="photo_6269302876971053785_y.jpg" alt="Mountains" style="width: 100%; max-width: 200px;">
+      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 200px;">
     </div>
     <div class="column">
-      <img src="photo_6269302876971053798_y.jpg" alt="Mountains" style="width: 100%; max-width: 200px;">
+      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 200px;">
     </div>
   </div>
 </body>
