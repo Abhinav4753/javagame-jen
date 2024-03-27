@@ -131,8 +131,9 @@
     }
     .box img, .box2 img {
       width: 200px;
-      height: auto;
-      margin-right: 20px;
+    height: auto;
+    margin-right: 20px;
+    padding-left: 30px;
     }
     .box .text, .box2 .text2 {
       flex: 1;
