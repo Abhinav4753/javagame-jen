@@ -149,7 +149,7 @@
   max-width: 25%;
   padding: 0 4px;
   text-align: center;
-  margin-bottom: 0; /* Remove bottom margin */
+  margin-bottom: 20px; /* Remove bottom margin */
 }
 
 .column img {
@@ -226,7 +226,7 @@
   </div>
   <div class="row">
     <div class="column">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQtl7t2PIeaZVegIQo1hHFUTnDRa6JJ-lpCWg&usqp=CAU" alt="Random Photo" style="width: 50%; max-width: 200px;">
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmpLqbU6Dp270LBuvaUu9jvqQ1OtyM5VfWjg&usqp=CAU" alt="Random Photo" style="width: 50%; max-width: 200px;">
     </div>
     <div class="column">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUleUW5slnrzo74FrVX4CqIobzgYwhh-UVCaLMs9SkxidbwENWaGGXxG6gH7Lpzu13LqA&usqp=CAU" alt="Random Photo" style="width: 50%; max-width: 200px;">
