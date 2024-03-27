@@ -121,7 +121,8 @@
     }
     .jobdes {
       margin-top: 20px;
-      align-text: center:
+      
+      align-items: center;
     }
     .box, .box2 {
       display: flex;
@@ -228,19 +229,19 @@
   </div>
   <div class="row">
     <div class="column">
-      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 100px;">
+      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 50%; max-width: 200px;">
     </div>
     <div class="column">
-      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 100px;">
+      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 50%; max-width: 200px;">
     </div>
     <div class="column">
-      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 100px;">
+      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 50%; max-width: 200px;">
     </div>
     <div class="column">
-      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 100px;">
+      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 50%; max-width: 200px;">
     </div>
     <div class="column">
-      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 100%; max-width: 100px;">
+      <img src="https://source.unsplash.com/random" alt="Random Photo" style="width: 50%; max-width: 200px;">
     </div>
   </div>
 </body>
