@@ -226,7 +226,7 @@
   </div>
   <div class="row">
     <div class="column">
-      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmpLqbU6Dp270LBuvaUu9jvqQ1OtyM5VfWjg&usqp=CAU" alt="Random Photo" style="width: 50%; max-width: 200px;">
+      <img src="https://www.collegebatch.com/static/clg-gallery/chitkara-university-rajpura-patiala-231390.jpg" alt="Random Photo" style="width: 50%; max-width: 200px;">
     </div>
     <div class="column">
       <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUleUW5slnrzo74FrVX4CqIobzgYwhh-UVCaLMs9SkxidbwENWaGGXxG6gH7Lpzu13LqA&usqp=CAU" alt="Random Photo" style="width: 50%; max-width: 200px;">
