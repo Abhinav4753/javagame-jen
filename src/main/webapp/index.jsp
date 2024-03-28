@@ -161,16 +161,17 @@
       text-align: center;
       margin-top: 20px;
     }
+    .top-layer {
+    	background-color: grey;
+    	margin-top: 10px;
+    	margin-bottom: 10px;
+    }
   </style>
 </head>
 <body>
-  <nav id="bar">
-    <ul>
-      <li class="items"><a href="">About</a></li>
-      <li class="items"><a href="">Work</a></li>
-      <li class="items"><a href="">Contact</a></li>
-    </ul>
-  </nav>
+  <div class="top-layer"> 
+  	<h2>ABOUT	CONTACT		WORK</h2>
+  </div>
   <div id="container">
     <h2>This is Abhinav Sharma</h2>
     <p>Roll No: 2210994753</p>
