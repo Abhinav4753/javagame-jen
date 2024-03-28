@@ -131,9 +131,9 @@
     }
     .box img, .box2 img {
       width: 200px;
-    height: auto;
-    margin-right: 20px;
-    padding-left: 30px;
+      height: auto;
+      margin-right: 20px;
+      padding-left: 30px;
     }
     .box .text, .box2 .text2 {
       flex: 1;
@@ -145,20 +145,18 @@
       justify-content: center;
     }
     .column {
-  flex: 25%;
-  max-width: 25%;
-  padding: 0 4px;
-  text-align: center;
-  margin-bottom: 20px; /* Remove bottom margin */
-}
-
-.column img {
-  margin-top: 8px;
-  vertical-align: middle;
-  width: 100%; /* Ensure images fill the entire column width */
-  max-width: 100%; /* Ensure images don't exceed the column width */
-}
-
+      flex: 25%;
+      max-width: 25%;
+      padding: 0 4px;
+      text-align: center;
+      margin-bottom: 20px; /* Remove bottom margin */
+    }
+    .column img {
+      margin-top: 8px;
+      vertical-align: middle;
+      width: 100%; /* Ensure images fill the entire column width */
+      max-width: 100%; /* Ensure images don't exceed the column width */
+    }
     .des {
       text-align: center;
       margin-top: 20px;
@@ -245,4 +243,3 @@
   </div>
 </body>
 </html>
-        
